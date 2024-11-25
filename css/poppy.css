@@ -1,0 +1,18 @@
+#menu{
+    height: 75px;
+    background-color: green;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;   
+    font-family: "Romanesco", cursive; 
+    font-size: 40px;
+    color: plum;
+}
+#menu a{
+    text-decoration: none;
+    color: plum;
+}
+#menu a:hover{
+    color: palevioletred;
+}
